@@ -1,3 +1,4 @@
+#Valorant text color editor
 message = input("what is the message you wanna say:\n")
 array = ["enemy","system","notification","team","warning"]
 colors = ["red","yellow","green","blue","purple"]
